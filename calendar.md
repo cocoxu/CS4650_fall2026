@@ -8,7 +8,7 @@ description: Listing of course modules and topics.
 
 CS 4650 covers the foundations of **Deep Learning for Natural Language Processing**, including mathematical foundations, neural networks, classic algorithms such as Viterbi, the origins of language modeling development, and evaluation methods such as F1 and MT metrics.
 
-For more cutting-edge LLM topics, we have developed a dedicated course, CS 7652, which we recommend taking after CS 4650.
+For more cutting-edge LLM topics, we have developed a dedicated course, CS 7652 "Large Language Models", which we recommend taking after CS 4650.
 
 {% for module in site.modules %}
 {{ module }}
