@@ -3,7 +3,7 @@ title: Schedule (subject to change as the term progresses)
 ---
 
 Resource 
-: [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS7650_fall2025/slides/PyTorch_tutorial.pdf)
+: [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS4650_fall2026/slides/PyTorch_tutorial.pdf)
   : 
   
 TBA
