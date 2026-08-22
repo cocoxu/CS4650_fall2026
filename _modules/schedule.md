@@ -43,9 +43,6 @@ TBA
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
 
 TBA
-: **[Project 1 due - Feedforward Network for Classification](https://colab.research.google.com/drive/1H2kkoMC4F9tnIg4q3OKkUh2GmkT1DXAd?usp=sharing)**
-
-TBA
 : [Encoder-Decoder + Attention](https://cocoxu.github.io/CS7650_fall2025/slides/lec9-seq2seq-attention.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
@@ -56,9 +53,6 @@ TBA
 TBA
 : [Convolutional Neural Networks](https://cocoxu.github.io/CS7650_fall2025/slides/lec11a-cnn.pdf), [MT Evaluation](https://cocoxu.github.io/CS7650_fall2025/slides/lec11b-mteval.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
-
-TBA
-: **[Project 2 due - LSTM+CRF for Named Entity Recognition](https://colab.research.google.com/drive/1jjdjCKZBglPHeO_FsJ-rjryEcRTzwuS3?usp=sharing)**
 
 TBA
 : [Pretrained Language Models - part 1 (ELMo, BERT & variants, BART/T5)](https://cocoxu.github.io/CS7650_fall2025/slides/lec12-pt1.pdf)
