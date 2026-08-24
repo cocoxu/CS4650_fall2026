@@ -6,9 +6,12 @@ Resource
 : [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS4650_fall2026/slides/PyTorch_tutorial.pdf)
   : 
   
-TBA
-: [Course Overview]()
+Aug 24
+: [Course Overview](https://cocoxu.github.io/CS4650_fall2026/slides/lec1-intro.pdf)
   : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Aug 27
+: **[Problem Set 0 (math background test) due](https://cocoxu.github.io/CS4650_fall2026/slides/CS_4650_Problem_Set_0_Fall_2026.pdf)**
   
 TBA (to be updated)
 : [Machine Learning Review - linear classification](https://cocoxu.github.io/CS7650_fall2025/slides/lec2-ml.pdf) 
