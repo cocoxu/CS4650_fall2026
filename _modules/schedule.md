@@ -13,8 +13,8 @@ Aug 24
 Aug 27
 : **[Problem Set 0 (math background test) due](https://cocoxu.github.io/CS4650_fall2026/slides/CS_4650_Problem_Set_0_Fall_2026.pdf)**
   
-TBA (to be updated)
-: [Machine Learning Review - linear classification](https://cocoxu.github.io/CS7650_fall2025/slides/lec2-ml.pdf) 
+Aug 31
+: [Machine Learning Review - linear classification](https://cocoxu.github.io/CS4650_fall2026/slides/lec2-ml-class.pdf) 
   : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
 TBA
