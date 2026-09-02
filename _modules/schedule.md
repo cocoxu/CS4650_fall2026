@@ -15,14 +15,10 @@ Aug 27
   
 Aug 31
 : [Machine Learning Review - linear classification](https://cocoxu.github.io/CS4650_fall2026/slides/lec2-ml-class.pdf) 
-  : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
+  : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M B](https://web.stanford.edu/~jurafsky/slp3/B.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
-TBA
-: [Machine Learning Review - logistic regression, perceptron, SVM](https://cocoxu.github.io/CS7650_fall2025/slides/lec2-ml.pdf) 
-  : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M B](https://web.stanford.edu/~jurafsky/slp3/B.pdf)
-
-TBA
-: [Machine Learning Review - mutliclass classification](https://cocoxu.github.io/CS7650_fall2025/slides/lec3-mcc.pdf)
+Sep 2
+: [Machine Learning Review - mutliclass classification](https://cocoxu.github.io/CS4650_fall2026/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
 TBA
