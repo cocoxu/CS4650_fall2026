@@ -21,8 +21,8 @@ Sep 2
 : [Machine Learning Review - mutliclass classification](https://cocoxu.github.io/CS4650_fall2026/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
-TBA
-: [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS7650_fall2025/slides/lec4-nn.pdf)
+Sep 9
+: [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS4650_fall2026/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf), [J.G. Makin - Backpropagation](https://cocoxu.github.io/CS7650_fall2025/slides/backprop.pdf)
 
 TBA
