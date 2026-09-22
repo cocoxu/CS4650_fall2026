@@ -31,11 +31,11 @@ Sep 16
 
 Sep 21
 : [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS4650_fall2026/slides/lec6-seq1.pdf) 
-  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf), [J+M B](https://web.stanford.edu/~jurafsky/slp3/B.pdf)
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf), [J+M A](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 
 TBA
 : [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2025/slides/lec7-seq2.pdf)
-  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 17](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 17](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 TBA
 : [Recurrent Neural Networks + Neural CRFs](https://cocoxu.github.io/CS7650_fall2025/slides/lec8-rnn.pdf) 
