@@ -35,7 +35,7 @@ Sep 21
 
 TBA
 : [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2025/slides/lec7-seq2.pdf)
-  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 17](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 TBA
 : [Recurrent Neural Networks + Neural CRFs](https://cocoxu.github.io/CS7650_fall2025/slides/lec8-rnn.pdf) 
