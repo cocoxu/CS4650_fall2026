@@ -39,7 +39,7 @@ Sep 23
 
 TBA
 : [Recurrent Neural Networks + Neural CRFs](https://cocoxu.github.io/CS7650_fall2025/slides/lec8-rnn.pdf) 
-  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
 
 TBA
 : [Encoder-Decoder + Attention](https://cocoxu.github.io/CS7650_fall2025/slides/lec9-seq2seq-attention.pdf)
