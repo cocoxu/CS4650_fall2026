@@ -47,7 +47,7 @@ Sep 30
 
 TBA
 : [Transformer](https://cocoxu.github.io/CS7650_fall2025/slides/lec10-transformer.pdf)
-  : [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
+  : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
 TBA
 : [Pretrained Language Models - part 1 (ELMo, BERT & variants, BART/T5)](https://cocoxu.github.io/CS7650_fall2025/slides/lec12-pt1.pdf)
