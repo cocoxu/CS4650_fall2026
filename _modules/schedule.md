@@ -46,7 +46,7 @@ Sep 30
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Oct 7
-: [Transformer, Adam Optimizer](https://cocoxu.github.io/CS4650_fall2026/slides/lec10-transformer-adam.pdf)
+: [Transformer, Layer Normalization, Adam Optimizer](https://cocoxu.github.io/CS4650_fall2026/slides/lec10-transformer-adam.pdf)
   : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
 Oct 12
