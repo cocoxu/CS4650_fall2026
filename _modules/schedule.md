@@ -50,8 +50,13 @@ Oct 7
   : [J+M 7.1-7.4](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
 Oct 12
+: [LLM Pre-training (encoder-based)](https://cocoxu.github.io/CS4650_fall2026/slides/lec11-maskedLM-transformer-recap.pdf)
+  : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+
+TBA
 : [LLM Pre-training (encoder-based), Distillation](https://cocoxu.github.io/CS4650_fall2026/slides/lec11-llm-encoder-distill.pdf)
-  : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf), [Knowledge Distillation](https://arxiv.org/pdf/1503.02531.pdf)
+  : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Knowledge Distillation](https://arxiv.org/pdf/1503.02531.pdf)
+
 
 TBA
 : [Pretrained Language Models - part 2 (GPT2/3, knowledge distillation, instruction tuning)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt2.pdf)
