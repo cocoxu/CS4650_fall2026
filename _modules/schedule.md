@@ -50,17 +50,16 @@ Oct 7
   : [J+M 7.1-7.4](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
 Oct 12
-: [LLM Pre-training (encoder-based)](https://cocoxu.github.io/CS4650_fall2026/slides/lec11-maskedLM-transformer-recap.pdf)
+: [LLM Pre-training: Masked Language Models](https://cocoxu.github.io/CS4650_fall2026/slides/lec11-maskedLM-transformer-recap.pdf)
   : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
-TBA
-: [LLM Pre-training (encoder-based), Distillation](https://cocoxu.github.io/CS4650_fall2026/slides/lec11-llm-encoder-distill.pdf)
-  : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Knowledge Distillation](https://arxiv.org/pdf/1503.02531.pdf)
+Oct 14
+: [Knowledge Distillation](https://cocoxu.github.io/CS4650_fall2026/slides/lec12-maskedLM-distill.pdf), [LLM Pre-training: Autoregressive Language Models]((https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt2.pdf)
+  : [J+M 7.5-7.7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Knowledge Distillation](https://arxiv.org/pdf/1503.02531.pdf), [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 
-
 TBA
-: [Pretrained Language Models - part 2 (GPT2/3, knowledge distillation, instruction tuning)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt2.pdf)
-  : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Hinton+15 Knowledge Distillation](https://arxiv.org/pdf/1503.02531), [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
+: [Pretrained Language Models - part 2 (GPT2/3, instruction tuning)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt2.pdf)
+  : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Hinton+15 Knowledge Distillation](https://arxiv.org/pdf/1503.02531), 
 
 TBA
 : [Post-training of Language Models - part 3 (InstructGPT, preference optimization, decoding)](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt3.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
