@@ -53,7 +53,7 @@ homework to the instructor in case of any technical issues with submission.
 Each student will have 6 flexible days to turn in late homework throughout the semester.
 The late days will be applied to homework assignments in the order of submission; **no
 late days can be applied to the final project (a group assignment)**. As an example, you
-could turn in the first homework 2 days late and the second homework 3 days late
+could turn in the first homework 2 days late and the second homework 4 days late
 without any penalty. After that you will lose 5% for each day an assignment is handed in
 late. These 6 late days are meant for personal emergencies; if you use late days for
 non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final project, due to the
