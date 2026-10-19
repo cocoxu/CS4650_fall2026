@@ -54,14 +54,13 @@ Oct 12
   : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 Oct 14
-: [Knowledge Distillation](https://cocoxu.github.io/CS4650_fall2026/slides/lec12a-distill.pdf), [Autoregressive Language Models](https://cocoxu.github.io/CS4650_fall2026/slides/lec12b-autoregressiveLM-scaling.pdf)
+: [Knowledge Distillation](https://cocoxu.github.io/CS4650_fall2026/slides/lec12a-distill.pdf), [Autoregressive Language Models](https://cocoxu.github.io/CS4650_fall2026/slides/lec13-autoregressiveLM-scaling.pdf)
   : [J+M 7.5-7.7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Knowledge Distillation](https://arxiv.org/pdf/1503.02531.pdf), [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 
 Oct 19
-: [Scaling Laws](https://cocoxu.github.io/CS4650_fall2026/slides/lec12b-autoregressiveLM-scaling.pdf), 
+: [Scaling Laws](https://cocoxu.github.io/CS4650_fall2026/slides/lec13-autoregressiveLM-scaling.pdf), 
   : [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
-
-
+  
 TBA
 : [Pretrained Language Models - part 2 (GPT2/3, instruction tuning)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt2.pdf)
   : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Hinton+15 Knowledge Distillation](https://arxiv.org/pdf/1503.02531), 
