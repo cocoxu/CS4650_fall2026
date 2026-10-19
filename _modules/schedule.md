@@ -58,7 +58,7 @@ Oct 14
   : [J+M 7.5-7.7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Knowledge Distillation](https://arxiv.org/pdf/1503.02531.pdf), [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 
 Oct 19
-: [Scaling Laws](https://cocoxu.github.io/CS4650_fall2026/slides/lec13-autoregressiveLM-scaling.pdf), 
+: [In-context Learning, Scaling Laws](https://cocoxu.github.io/CS4650_fall2026/slides/lec13-autoregressiveLM-scaling.pdf) 
   : [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
   
 TBA
