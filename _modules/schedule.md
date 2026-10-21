@@ -61,12 +61,15 @@ Oct 19
 : [In-context Learning, Scaling Laws](https://cocoxu.github.io/CS4650_fall2026/slides/lec13-autoregressiveLM-scaling.pdf) 
   : [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
   
-TBA
-: [Pretrained Language Models - part 2 (GPT2/3, instruction tuning)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt2.pdf)
+Oct 21
+: [Instruction Tuning, Decoding)](https://cocoxu.github.io/CS4650_fall2026/slides/lec14-instruction-tuning.pdf)
   : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Hinton+15 Knowledge Distillation](https://arxiv.org/pdf/1503.02531), 
 
+Oct 28
+: **In-class Midterm (close book, close note)**
+
 TBA
-: [Post-training of Language Models - part 3 (InstructGPT, preference optimization, decoding)](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt3.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
+: [Post-training of Language Models - part 3 (InstructGPT, preference optimization, decoding)](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt3.pdf)
   : [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) 
 
 TBA
@@ -78,8 +81,7 @@ TBA
   : [BPE](https://arxiv.org/pdf/1508.07909.pdf)
   
 
-TBA
-: **In-class Midterm (close book, close note)**
+
 
 
 
