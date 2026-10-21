@@ -62,7 +62,7 @@ Oct 19
   : [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
   
 Oct 21
-: [Instruction Tuning, Decoding)](https://cocoxu.github.io/CS4650_fall2026/slides/lec14-instruction-tuning.pdf)
+: [Instruction Tuning, Decoding](https://cocoxu.github.io/CS4650_fall2026/slides/lec14-instruction-tuning.pdf)
   : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Hinton+15 Knowledge Distillation](https://arxiv.org/pdf/1503.02531), 
 
 Oct 28
