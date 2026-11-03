@@ -62,19 +62,24 @@ Oct 19
   : [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
   
 Oct 21
-: [Instruction Tuning, Decoding](https://cocoxu.github.io/CS4650_fall2026/slides/lec14-instruction-tuning.pdf)
-  : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Hinton+15 Knowledge Distillation](https://arxiv.org/pdf/1503.02531), 
+: [Instruction Tuning](https://cocoxu.github.io/CS4650_fall2026/slides/lec14-instruction-tuning.pdf)
+  : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Oct 28
 : **In-class Midterm (close book, close note)**
 
+Nov 2
+: [Decoding](https://cocoxu.github.io/CS4650_fall2026/slides/lec15-decoding.pdf)
+  : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) 
+
+Nov 4
+: [Advanced Transformer Architecture for LLMs](https://cocoxu.github.io/CS4650_fall2026/slides/lec16-advanced-architecture.pdf)
+  : [LLaMA](https://arxiv.org/pdf/2302.13971.pdf) 
+
+
 TBA
 : [Post-training of Language Models - part 3 (InstructGPT, preference optimization, decoding)](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt3.pdf)
   : [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) 
-
-TBA
-: [Open-source Language Models - part 4 (LLaMA, normalization, RoPE, AdamW, etc.)](https://cocoxu.github.io/CS7650_fall2025/slides/lec15-pt4.pdf)
-  : [Llama 3](https://arxiv.org/pdf/2407.21783.pdf)  
 
 TBA
 : [Open-source Language Models - part 5 (tokenization, BPE, multilinguality))](https://cocoxu.github.io/CS7650_fall2025/slides/lec16-pt5-tokenization.pdf)
