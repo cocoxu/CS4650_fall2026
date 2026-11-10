@@ -76,9 +76,8 @@ Nov 4
 : [Advanced Transformer Architecture for LLMs](https://cocoxu.github.io/CS4650_fall2026/slides/lec16-advanced-architecture.pdf)
   : [LLaMA](https://arxiv.org/pdf/2302.13971.pdf) 
 
-
-TBA
-: [Post-training of Language Models - part 3 (InstructGPT, preference optimization, decoding)](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt3.pdf)
+Nov 9
+: [Post-training of LLMs)](https://cocoxu.github.io/CS4650_fall2026/slides/lec17-post-training.pdf)
   : [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) 
 
 TBA
